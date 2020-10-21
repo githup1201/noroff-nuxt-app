@@ -1,5 +1,7 @@
 <template>
-  <div class="container"><h1>Marianne</h1>
+  <div class="container">
+  <h1>Marianne</h1>
+  <h2>Grimstad</h2>
     <div>
       <Logo />
       <h1 class="title">
